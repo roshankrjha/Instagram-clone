@@ -1,2 +1,2 @@
-# Instagram-clone
+# Netflix-clone
 Created with CodeSandbox
